@@ -1,0 +1,3 @@
+# parking_system 
+
+This project is simple to understandd in which i have made parking system. In this project there are eight inputs which 1,2......,8. press 1 to park the rickshaw. Press 2 to park the car.Press 3 to park the bus. Press 4 to show the record in which it show howmany tota; vehicles are parked in parking lot and total amount of paking in rupees and also it seperately show all vehicles record. Press 5 to delete all record.Press 6 to delete one rickshaw.Press 7 to delete one car.Press 8 to delete one bus.If you have to delete two bus then you should try this process repeatately.Thats all about my project.Thank you .
